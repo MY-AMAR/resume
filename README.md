@@ -13,6 +13,6 @@ Inter | 2
 SSC | 1
 
 ###Achievements
-![Certificate](/sample-certificate1.jpeg)
+![Certificate](/Sample-Certificate1.jpeg)
 
 [MY PULBICATION]www.google.com
